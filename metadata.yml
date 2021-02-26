@@ -1,0 +1,12 @@
+---
+:id: 46049254
+:submitters:
+- :name: Laura Moreno Romero
+  :email: laura.s.moreno.romero-1@ou.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-09-26 17:40:02.803274000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-09-26 10:40:02.803274000 Z
+:status: processed
+:score: 100.0
